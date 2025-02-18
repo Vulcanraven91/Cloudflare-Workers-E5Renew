@@ -2,7 +2,7 @@
   "name": "e5renew",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "2.0.22"
+    "wrangler": "3.109.2"
   },
   "private": true,
   "scripts": {
